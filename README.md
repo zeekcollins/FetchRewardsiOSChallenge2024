@@ -35,7 +35,7 @@ Hi, I'm Ezekial ([Zeek](https://zeekcollins.com/)) Collins, and I've been select
 ## Installation
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/MealDB.git
+    git clone https://github.com/zeekcollins/FetchRewardsiOSChallenge2024.git
     ```
 2. **Navigate to the project directory:**
     ```bash
