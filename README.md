@@ -19,10 +19,10 @@ Hi, I'm Ezekial ([Zeek](https://zeekcollins.com/)) Collins, and I've been select
 
 ## Visuals
 <p align="center">
-    <img src="./MealDB/Assets.xcassets/ContentView_screenshot.imageset/ContentView_screenshot.png" style="width: 20%; max-width: 225px; margin: 0rem 0.25rem; border: 2px solid #000;" />
-    <img src="./MealDB/Assets.xcassets/MealDetailView1_screenshot.imageset/MealDetailView1_screenshot.png" style="width: 20%; max-width: 225px; margin: 0rem 0.25rem border: 2px solid #000;" />
-    <img src="./MealDB/Assets.xcassets/MealDetailView2_screenshot.imageset/MealDetailView2_screenshot.png" style="width: 20%; max-width: 225px; margin: 0rem 0.25rem border: 2px solid #000;" />
-    <img src="./MealDB/Assets.xcassets/NoInternet_screenshot.imageset/NoInternet_screenshot.png" style="width: 20%; max-width: 225px; margin: 0rem 0.25rem; border: 2px solid #000;" />
+    <img src="./MealDB/Assets.xcassets/ContentView_screenshot.imageset/ContentView_screenshot.png" style="width: 20%; max-width: 225px; margin: 0rem 0.25rem; border: 2px solid black;" />
+    <img src="./MealDB/Assets.xcassets/MealDetailView1_screenshot.imageset/MealDetailView1_screenshot.png" style="width: 20%; max-width: 225px; margin: 0rem 0.25rem; border: 2px solid black;" />
+    <img src="./MealDB/Assets.xcassets/MealDetailView2_screenshot.imageset/MealDetailView2_screenshot.png" style="width: 20%; max-width: 225px; margin: 0rem 0.25rem; border: 2px solid black;" />
+    <img src="./MealDB/Assets.xcassets/NoInternet_screenshot.imageset/NoInternet_screenshot.png" style="width: 20%; max-width: 225px; margin: 0rem 0.25rem; border: 2px solid black;" />
 </p>
 
 ## Features
