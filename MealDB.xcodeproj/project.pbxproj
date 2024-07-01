@@ -73,6 +73,7 @@
 		CB86B1482C2FDEFE005D3625 = {
 			isa = PBXGroup;
 			children = (
+				CB588B712C32C94E00C20928 /* README.md */,
 				CB86B1532C2FDEFE005D3625 /* MealDB */,
 				CB86B1522C2FDEFE005D3625 /* Products */,
 			);
@@ -96,7 +97,6 @@
 				CBB18D232C314A4400BD6605 /* Views */,
 				CB86B1582C2FDEFF005D3625 /* Assets.xcassets */,
 				CB86B15A2C2FDEFF005D3625 /* Preview Content */,
-				CB588B712C32C94E00C20928 /* README.md */,
 			);
 			path = MealDB;
 			sourceTree = "<group>";
