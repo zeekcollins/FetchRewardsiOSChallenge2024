@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img width="250" src="./Assets.xcassets/fetch_logo.imageset/1024.png" alt="Fetch Rewards Logo" />
+  <img width="250" src="./MealDB/Assets.xcassets/fetch_logo.imageset/1024.png" alt="Fetch Rewards Logo" />
 </h1>
 
 # MealDB (Fetch - iOS Coding Challenge)
@@ -18,12 +18,11 @@ A SwiftUI application to browse and view detailed dessert recipes from the [Meal
 Hi, I'm Ezekial ([Zeek](https://zeekcollins.com/)) Collins, and I've been selected to complete Fetch Rewards' iOS coding challenege. This is MealDB, a SwiftUI application that fetches and displays recipes from the MealDB API. Users can browse through various desserts, view detailed recipes, and see ingredient measurements.
 
 ## Visuals
-
 <p align="center">
-    <img src="./Assets.xcassets/ContentView_screenshot.imageset/ContentView_screenshot.png" style="width: 20%; max-width: 225px; margin: 0rem 0.25rem border: 2px solid #000;" />
-    <img src="./Assets.xcassets/MealDetailView1_screenshot.imageset/MealDetailView1_screenshot.png" style="width: 20%; max-width: 225px; margin: 0rem 0.25rem border: 2px solid #000;" />
-    <img src="./Assets.xcassets/MealDetailView2_screenshot.imageset/MealDetailView2_screenshot.png" style="width: 20%; max-width: 225px; margin: 0rem 0.25rem border: 2px solid #000;" />
-    <img src="./Assets.xcassets/NoInternet_screenshot.imageset/NoInternet_screenshot.png" style="width: 20%; max-width: 225px; margin: 0rem 0.25rem border: 2px solid #000;" />
+    <img src="./MealDB/Assets.xcassets/ContentView_screenshot.imageset/ContentView_screenshot.png" style="width: 20%; max-width: 225px; margin: 0rem 0.25rem border: 2px solid #000;" />
+    <img src="./MealDB/Assets.xcassets/MealDetailView1_screenshot.imageset/MealDetailView1_screenshot.png" style="width: 20%; max-width: 225px; margin: 0rem 0.25rem border: 2px solid #000;" />
+    <img src="./MealDB/Assets.xcassets/MealDetailView2_screenshot.imageset/MealDetailView2_screenshot.png" style="width: 20%; max-width: 225px; margin: 0rem 0.25rem border: 2px solid #000;" />
+    <img src="./MealDB/Assets.xcassets/NoInternet_screenshot.imageset/NoInternet_screenshot.png" style="width: 20%; max-width: 225px; margin: 0rem 0.25rem border: 2px solid #000;" />
 </p>
 
 ## Features
